@@ -9,6 +9,9 @@
 	.main {
 		margin: 50px 10px 0;
 	}
+	.menu:hover {
+		width: 100%;
+	}
 	.tariff {
 		width: 100%;
 		min-width: 70%;
