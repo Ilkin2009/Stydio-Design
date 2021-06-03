@@ -10,7 +10,7 @@
 		margin: 50px 10px 0;
 	}
 	.menu:hover {
-		width: 100%;
+		width: 100% !important;
 	}
 	.tariff {
 		width: 100%;
