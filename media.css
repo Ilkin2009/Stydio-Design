@@ -1,0 +1,20 @@
+@media (max-width: 575px) {
+	.menu {
+		position: static;
+		width: 100%;
+		border-top-right-radius: 0px;
+		border-bottom-left-radius: 10px;
+		box-sizing: border-box;
+	}
+	.main {
+		margin: 50px 10px 0;
+	}
+	.tariff {
+		width: 100%;
+		min-width: 70%;
+	}
+	.member {
+		width: 100%;
+		min-width: 70%;
+	}
+}
